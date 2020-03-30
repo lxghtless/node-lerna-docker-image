@@ -26,4 +26,4 @@ $ docker pull lxghtless/node-lerna:latest
 
   - Docker Image [1.1.0](https://hub.docker.com/repository/docker/lxghtless/node-lerna)
   - Node.js [v12.16](https://nodejs.org/dist/latest-v12.x/)
-  - Lerna [v3.20.2](https://www.npmjs.com/package/lerna/v/3.16.0)
+  - Lerna [v3.20.2](https://www.npmjs.com/package/lerna/v/3.20.2)
