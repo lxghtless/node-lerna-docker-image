@@ -1,5 +1,5 @@
-FROM node:10.16
+FROM node:12.16
 
 WORKDIR /usr/src
 
-RUN npm i lerna -g --loglevel notice
+RUN npm i lerna@3.20.2 -g
