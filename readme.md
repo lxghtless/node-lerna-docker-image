@@ -27,3 +27,11 @@ $ docker pull lxghtless/node-lerna:latest
   - Docker Image [1.1.0](https://hub.docker.com/repository/docker/lxghtless/node-lerna)
   - Node.js [v12.16](https://nodejs.org/dist/latest-v12.x/)
   - Lerna [v3.20.2](https://www.npmjs.com/package/lerna/v/3.20.2)
+
+- [v2.0.0](https://github.com/lxghtless/node-lerna-docker-image/releases/tag/v2.0.0)
+
+  - Docker Image [1.1.0](https://hub.docker.com/repository/docker/lxghtless/node-lerna)
+  - Node.js [LTS](https://nodejs.org/en/)
+  - Lerna [v3.22.1](https://www.npmjs.com/package/lerna/v/3.22.1)
+
+> With v2.0.0 the base nodejs image is referenced as `lts-buster`.

@@ -1,5 +1,5 @@
-FROM node:12.16
+FROM node:lts-buster
 
 WORKDIR /usr/src
 
-RUN npm i lerna@3.20.2 -g
+RUN npm i lerna@3.22.1 -g
